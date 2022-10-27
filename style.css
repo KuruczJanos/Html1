@@ -8,3 +8,11 @@ body{background-color: aqua;
      font-weight: 400;}
 #container {max-width: 1000px;
             margin: 0 auto;}
+#content .news {width: 49,9999%;
+    .clearfix::after 
+        content: "";
+        clear: both;
+        display: table;
+      
+}
+#footer {background-color: chartreuse;}
